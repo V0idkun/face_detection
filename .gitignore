@@ -1,0 +1,9 @@
+/etc/
+/include/
+/Lib/
+/Scripts/
+/share/
+pyvenv.cfg
+new_face.py
+improv2_face.py
+face.py
